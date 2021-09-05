@@ -10,7 +10,6 @@ const Technologies = () =>  (
     <SectionTitle>Skills and Technologies</SectionTitle>
     <SectionText>
       I've worked with a range of Technologies in the web development space from Back-end to Front-end Design.
-      Add images icons of languages used: Python, C, React, Javascript, HTML5, css3, and Linux/Ubuntu.
     </SectionText>
     <List>
       <ListItem>
